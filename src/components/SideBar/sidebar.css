@@ -1,0 +1,12 @@
+.sidebar-items {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+  background-color: aqua;
+}
+.admin-mode{
+  background-color: lightgrey;
+  /* padding: ; */
+}
+
